@@ -93,5 +93,4 @@ Windows: Terbatas pada tampilan standar yang disediakan oleh Microsoft. Linux: B
 
 ![WhatsApp Image 2025-02-09 at 03 56 15](https://github.com/user-attachments/assets/29e7bded-32ae-4d79-8b55-6e1b63bbac64)
 
-Gambar perbedaan linux dan windows 
-
+Gambar Perbedaan Linux dan Windows 
